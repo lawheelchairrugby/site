@@ -18,6 +18,11 @@ enableEmoji = true
 
 # googleAnalytics = "G-XXXXXXXXX"
 
+# GH Action Cache
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [pagination]
   pagerSize = 100
 
