@@ -12,12 +12,17 @@
 
 [[main]]
  name = "about"
+ pageRef = "about"
 #  pageRef = "posts"
 #  weight = 10
 
 [[main]]
  name = "team"
 #  weight = 20
+
+[[main]]
+  name = "blog"
+  pageRef = "posts"
 
 [[main]]
   name = "donate"
