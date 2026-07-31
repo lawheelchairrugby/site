@@ -2,7 +2,7 @@ disabled = false
 locale = "en"
 label = "English"
 weight = 1
-title = "LA Wheelchair Rugby"
+title = "LAWCR"
 
 [params]
   displayName = "EN"
@@ -15,13 +15,13 @@ title = "LA Wheelchair Rugby"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-#   name = "Your name here"
+  name = "Los Angeles Wheelchair Rugby"
 #   email = "youremail@example.com"
 #   image = "img/blowfish_logo.png"
 #   imageQuality = 96
-#   headline = "I'm only human"
+  headline = "Supporting Wheelchair Rugby in Southern California"
 #   bio = "A little bit about you"
-#   links = [
+  links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -39,7 +39,7 @@ title = "LA Wheelchair Rugby"
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
-#     { instagram = "https://instagram.com/username" },
+    { instagram = "https://instagram.com/northridgeknightz" },
 #     { itch-io = "https://username.itch.io" },
 #     { keybase = "https://keybase.io/username" },
 #     { keyoxide = "https://keyoxide.org/URI" },
@@ -76,4 +76,4 @@ title = "LA Wheelchair Rugby"
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
 #     { printables = "https://www.printables.com/@username"},
-#   ]
+  ]
